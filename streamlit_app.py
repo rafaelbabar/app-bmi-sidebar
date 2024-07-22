@@ -30,4 +30,4 @@ def dashboard():
         st.write("Obese")
         st.image("red.png")
         
-dashboard(
+dashboard()
